@@ -11,6 +11,41 @@ This dataset computes that maturity year for **66,307 loans** where the term is 
 
 This industry × metro × maturity-year cut **is not published anywhere else.** Aggregate SBA totals exist elsewhere; this breakdown does not.
 
+## Key findings
+
+**The wall keeps rising through the decade — and peaks in 2027.** SBA loans maturing per year, nationally:
+
+| Year | Loans coming due |
+| ---- | ---------------- |
+| 2024 | 2,099            |
+| 2025 | 2,387            |
+| 2026 | 2,639            |
+| 2027 | **2,737** (peak) |
+| 2028 | 2,516            |
+| 2029 | 2,464            |
+| 2030 | 2,589            |
+
+**California dominates.** States with the most small-business SBA loans maturing in **2026**:
+
+| Rank | State      | 2026 maturities |
+| ---- | ---------- | --------------- |
+| 1    | California | **487**         |
+| 2    | Texas      | 185             |
+| 3    | Florida    | 152             |
+| 4    | Ohio       | 110             |
+| 5    | Illinois   | 108             |
+| 6    | Michigan   | 96              |
+| 7    | Minnesota  | 93              |
+| 8    | Colorado   | 86              |
+| 9    | Wisconsin  | 82              |
+| 10   | Georgia    | 76              |
+
+**Manufacturing, dental, and auto repair lead the transition wave.** Industries by 2026 maturities: manufacturing **788**, dental **575**, auto repair **574**, HVAC & plumbing **252**, veterinary **204**, landscaping **188**, funeral homes **58**.
+
+**Top metros for 2026 maturities:** Los Angeles (141), Chicago (86), San Francisco (67), Minneapolis (64), Houston (62), Riverside–San Bernardino (56), Dallas–Fort Worth (56), Atlanta (55), New York (54), Phoenix (52).
+
+Every one of these numbers is reproducible from the CSV below.
+
 ## Files
 
 | File                                  | Scope                                       | Rows  |

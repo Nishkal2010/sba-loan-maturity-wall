@@ -13,17 +13,19 @@ This industry × metro × maturity-year cut **is not published anywhere else.** 
 
 ## Key findings
 
-**The wall keeps rising through the decade — and peaks in 2027.** SBA loans maturing per year, nationally:
+**The wall rises steadily — a near-term peak in 2027, then a larger structural peak in 2035.** SBA loans maturing per year, nationally (near-term window):
 
-| Year | Loans coming due |
-| ---- | ---------------- |
-| 2024 | 2,099            |
-| 2025 | 2,387            |
-| 2026 | 2,639            |
-| 2027 | **2,737** (peak) |
-| 2028 | 2,516            |
-| 2029 | 2,464            |
-| 2030 | 2,589            |
+| Year | Loans coming due           |
+| ---- | -------------------------- |
+| 2024 | 2,099                      |
+| 2025 | 2,387                      |
+| 2026 | 2,639                      |
+| 2027 | **2,737** (near-term peak) |
+| 2028 | 2,516                      |
+| 2029 | 2,464                      |
+| 2030 | 2,589                      |
+
+Across the full series the single largest year is **2035 (3,510 loans)** — a later cohort of longer-maturity 504 loans — so the near-term window above understates the wall still ahead.
 
 **California dominates.** States with the most small-business SBA loans maturing in **2026**:
 
@@ -99,3 +101,10 @@ Built and maintained by **[Scouly](https://scouly.com)** — off-market small-bu
 
 - Full dataset page and provenance: **https://scouly.com/data**
 - Background and analysis: **[The SBA Maturity Wall — 66,307 loans and when they come due](https://scouly.com/blog/sba-loan-maturity-wall)**
+
+## Also available on
+
+The same dataset is mirrored on:
+
+- **Hugging Face** — https://huggingface.co/datasets/nishkal2010/sba-loan-maturity-wall
+- **Kaggle** — https://www.kaggle.com/datasets/nishkaldachepelly/sba-loan-maturity-wall
